@@ -8,6 +8,6 @@ import retrofit2.Call;
 import retrofit2.http.GET;
 
 public interface API {
-    @GET("index.php")
+    @GET("projet3a.php")
     Call<List<Personnage>> get();
 }
