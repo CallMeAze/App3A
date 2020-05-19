@@ -3,7 +3,7 @@
 
 # Description du projet
 
-Ce projet Naruto est un projet de troisième année d'école d'ingénieur. Cette application affiche des personnages de l'Univers Naruto et utilise une API créer par Malderez Alexis
+Ce projet Naruto est un projet de troisième année d'école d'ingénieur. Cette application affiche des personnages de l'Univers Naruto et utilise une API créer par Malderez Alexis hebergé sur Microsoft Azure
 
 # Consignes respectées
 - Appels **REST** (disponible sur internet via une machine virtuelle)
@@ -13,11 +13,11 @@ Ce projet Naruto est un projet de troisième année d'école d'ingénieur. Cette
 - Utilisation de **plusieurs activités** dont une affichant une **liste de données** et une autre affichant le **détail d'un objet de cette liste**.
 - **Présence d'un cache** permettant un fonctionnement hors connexion
 - **Présence d'un SplashScreen** au lancement de l'application
-- Création d'une **base de données** et d'un **site internet** situé sur une **machine virtuelle** qui nous sert d'api
+- Création d'une **base de données** et d'un **site internet** sous WAMP, hebergé sur une **machine virtuelle** Microsoft Azure servant d'api
 
 # Fonctionnalités
 
-L'application dispose de nombreuses fonctionnalités disponibles sur **3 activités distnctes** : **le SplashScreen**, la liste des **différents personnages de naruto** et l'écran de **détail**, composé de 2 options. 
+L'application dispose de nombreuses fonctionnalités disponibles sur **3 activités distinctes** : **le SplashScreen**, la liste des **différents personnages de naruto** et l'écran de **détail**, composé de 2 options. 
 
 
 ## SplashScreen
