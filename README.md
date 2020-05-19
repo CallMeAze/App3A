@@ -13,7 +13,7 @@ Ce projet Naruto est un projet de troisième année d'école d'ingénieur. Cette
 - Utilisation de **plusieurs activités** dont une affichant une **liste de données** et une autre affichant le **détail d'un objet de cette liste**.
 - **Présence d'un cache** permettant un fonctionnement hors connexion
 - **Présence d'un SplashScreen** au lancement de l'application
-- Création d'une base de données et d'un site internet situé sur une machine virtuelle qui nous sert d'api
+- Création d'une **base de données** et d'un **site internet** situé sur une **machine virtuelle** qui nous sert d'api
 
 # Fonctionnalités
 
@@ -37,6 +37,12 @@ Affiche la **liste** des personnages de naruto.
 - Affiche les différentes informations du personnage séléctionnés
 - Utilisation d'un Canvas afin d'afficher sous forme graphique des éléments de l'API
 
-<img src ="https://github.com/CallMeAze/App3A/blob/master/Image_GH/Capacite.PNG" width="250"/>     <img src ="https://github.com/CallMeAze/App3A/blob/master/Image_GH/Sasuke_details.PNG" width="255"/>
+<img src ="https://github.com/CallMeAze/App3A/blob/master/Image_GH/Capacite.PNG" width="250"/>     <img src ="https://github.com/CallMeAze/App3A/blob/master/Image_GH/Sasuke_details.PNG" width="250"/>
 
+- On a aussi un autre affichage pour d'autres détails sur le personnage
 
+<img src ="https://github.com/CallMeAze/App3A/blob/master/Image_GH/Description.PNG" width="250"/>     <img src ="https://github.com/CallMeAze/App3A/blob/master/Image_GH/Sasuke_desc.PNG" width="250"/>
+
+- Enfin on utilise une bottom-bar customisé pour la navigation
+
+<img src ="https://github.com/CallMeAze/App3A/blob/master/Image_GH/Toolbar.PNG" width="250"/>
