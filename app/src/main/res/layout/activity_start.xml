@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="NARUTO API"
+        android:text="NARUTO"
         android:textAlignment="center"
         android:textSize="48dp"
         app:layout_constraintBottom_toTopOf="@+id/imageView"
