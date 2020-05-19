@@ -34,6 +34,9 @@ Affiche la **liste** des personnages de naruto.
 
 ## Écran de détail
 
--Affiche les différentes informations du personnage séléctionnés
--Utilisation d'un Canvas afin d'afficher sous forme graphique des éléments de l'API
+- Affiche les différentes informations du personnage séléctionnés
+- Utilisation d'un Canvas afin d'afficher sous forme graphique des éléments de l'API
+
+<img src ="https://github.com/CallMeAze/App3A/blob/master/Image_GH/Capacite.PNG" width="250"/>     <img src ="https://github.com/CallMeAze/App3A/blob/master/Image_GH/Sasuke_details.PNG" width="255"/>
+
 
