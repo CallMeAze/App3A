@@ -9,6 +9,7 @@ Ce projet Naruto est un projet de troisième année d'école d'ingénieur. Cette
 - Appels **REST** (disponible sur internet via une machine virtuelle)
 - **Stockage** des données
 - Architecture **MVC**
+- Utilisation d'un **Singleton Storage**
 - Affichage des données dans une **RecyclerView** avec un **Adapter**
 - Utilisation de **plusieurs activités** dont une affichant une **liste de données** et une autre affichant le **détail d'un objet de cette liste**.
 - **Présence d'un cache** permettant un fonctionnement hors connexion
